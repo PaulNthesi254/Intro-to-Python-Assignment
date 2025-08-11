@@ -1,5 +1,3 @@
-
-
 # prompt the user to enter the first number
 num1 = float(input("Enter the first number: "))
 
@@ -27,3 +25,4 @@ elif operation == "/":
         print("Error: Division by zero is not allowed.")
 else:
     print("Invalid operation entered.")
+
